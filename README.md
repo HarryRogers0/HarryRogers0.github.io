@@ -15,6 +15,15 @@ Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
 An academic project looking at data manipulation and visualisation in R.
 [Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-1)
 
+### Data Science CW2
+An academic project looking at text sentiment analysis, spatial data visualisation and analysis.
+[Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-2)
+
+
+### Stochastic Systems Coursework
+An academic project studying a second order stochastic reaction, approximating solutions and using MATLAB to evaluate long term system behaviour.
+[Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-2)
+
 ### Numerical Analysis Coursework
 An academic project studying a group of integrals and numerical approximations to solve them.
 [Github Project](https://github.com/HarryRogers0/Numerical-Analysis-Coursework)
