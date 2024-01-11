@@ -20,11 +20,11 @@ An academic project looking at text sentiment analysis, spatial data visualisati
 [Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-2)
 
 
-### Stochastic Systems Coursework
+### Stochastic Systems Coursework (84/100)
 An academic project studying a second order stochastic reaction, approximating solutions and using MATLAB to evaluate long term system behaviour.
 [Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-2)
 
-### Numerical Analysis Coursework
+### Numerical Analysis Coursework (90/100)
 An academic project studying a group of integrals and numerical approximations to solve them.
 [Github Project](https://github.com/HarryRogers0/Numerical-Analysis-Coursework)
 
