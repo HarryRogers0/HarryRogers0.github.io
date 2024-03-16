@@ -11,6 +11,11 @@ Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
 - Configuring optimal deployment strategies for Fire and Ambulance services worldwide.
   
 ## Academic and Personal Projects
+### Derivative Pricing Dashboard
+A personal project exploring developing an app in Python using Streamlit. The Purpose of the App is to use Black-Scholes-Merton pricing and binomial pricing model in order to determine the theoretical value of American options.
+[Live Dashboard](https://opdash-harryrogers0.streamlit.app/)
+[Github Project](https://github.com/HarryRogers0/OpDash)
+
 ### Data Science CW1
 An academic project looking at data manipulation and visualisation in R.
 [Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-1)
