@@ -16,6 +16,11 @@ A personal project developing an app in Python using Streamlit. The purpose of t
 [Live Dashboard](https://opdash-harryrogers0.streamlit.app/)
 [Github Project](https://github.com/HarryRogers0/OpDash)
 
+### Student Loan Repayment Calculator
+A handy tool which uses current interest rates to calculate your student loan balance over time. You are able to set your current salary, plan, and even input potential future earnings to visualise how the balance changes dynamically.
+[Live Dashboard](https://harryrogers-student-loan-repayment-calculator.streamlit.app/)
+[Github Project](https://github.com/HarryRogers0/Student-Loan-Repayment-Calculator)
+
 ### Data Science CW1
 An academic project looking at data manipulation and visualisation in R.
 [Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-1)
