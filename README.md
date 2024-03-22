@@ -12,7 +12,7 @@ Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
   
 ## Academic and Personal Projects
 ### Derivative Pricing Dashboard
-A personal project developing an app in Python using Streamlit. The purpose of the app is to use Black-Scholes-Merton pricing and binomial pricing models in order to determine the theoretical value of American options. The dashboard will take in any ticker and expiry date and dynamically update the relevant graphs and analyses showing pricing disparities at different strike prices.
+A personal project developing an app in Python using Streamlit. The purpose of the app is to use Black-Scholes-Merton pricing and binomial pricing models in order to determine the theoretical value of American options. The dashboard will take in any ticker and expiry date and dynamically update the relevant graphs and analyses showing pricing disparities at different strike prices. Please note that occasionally the downloaded option chain will have a Bid/Ask of 0, this is most likely because it is outside Market Hours.
 [Live Dashboard](https://opdash-harryrogers0.streamlit.app/)
 [Github Project](https://github.com/HarryRogers0/OpDash)
 
