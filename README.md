@@ -1,16 +1,14 @@
-# Mathematics student with Placement Experience
+# Harry Rogers
 
 ## Education
 Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
 
-## Work Experience
-**Placement Analyst - ORH (_August 2022 - July 2023_)**
-- Process large datasets using a variety of tools including SQL, Mapinfo, Excel and Python.
-- Setting up and validating propriatary simulation models against large datasets.
-- Providing succinct and meaningful analysis and conveying it to a range of audiences.
-- Configuring optimal deployment strategies for Fire and Ambulance services worldwide.
-  
 ## Academic and Personal Projects
+### IPA (Interactive Portfolio Analyser)
+A Python dashboard project developing investment strategy models based on Modern Portfolio Theory. By harnessing machine learning libraries in Python, this dashboard finds optimally weighted portfolios for a range of objective functions and constraints. The objective functions explored include conditional value at risk (cVar) minimisation and Sharpe Ratio maximisation and can be benchmarked against a variety of configurations and index funds. 
+[Live Dashboard](https://ipa-harryrogers0.streamlit.app)
+[Github Project](https://github.com/HarryRogers0/IPA)
+
 ### Derivative Pricing Dashboard
 A personal project developing an app in Python using Streamlit. The purpose of the app is to use Black-Scholes-Merton pricing and binomial pricing models in order to determine the theoretical value of American options. The dashboard will take in any ticker and expiry date and dynamically update the relevant graphs and analyses showing pricing disparities at different strike prices. Please note that occasionally the downloaded option chain will have a Bid/Ask of 0, this is most likely because it is outside Market Hours.
 [Live Dashboard](https://opdash-harryrogers0.streamlit.app/)
@@ -21,17 +19,17 @@ A handy tool which uses current interest rates to calculate your student loan ba
 [Live Dashboard](https://harryrogers-student-loan-repayment-calculator.streamlit.app/)
 [Github Project](https://github.com/HarryRogers0/Student-Loan-Repayment-Calculator)
 
-### Data Science CW1
+### Data Science Coursework 1
 An academic project looking at data manipulation and visualisation in R.
 [Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-1)
 
-### Data Science CW2
-An academic project looking at text sentiment analysis, spatial data visualisation and analysis.
+### Data Science Coursework 2
+An academic project looking at text sentiment analysis, spatial data visualisation and analysis in R.
 [Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-2)
 
 
 ### Stochastic Systems Coursework (84/100)
-An academic project studying a second order stochastic reaction, approximating solutions and using MATLAB to evaluate long term system behaviour.
+An academic project studying a second order stochastic reactions, approximating solutions and using MATLAB to evaluate long term system behaviour.
 [Github Project](https://github.com/HarryRogers0/Stochastic-Systems-Coursework)
 
 ### Numerical Analysis Coursework (90/100)
@@ -52,6 +50,6 @@ An academic project studying a group of integrals and numerical approximations t
 
 
 ## Skills
-- R - data wrangling and visualisation
-- Python - large dataset manipulation and machine learning
+- R - data wrangling and visualisation.
+- Python - large dataset manipulation and optimisation modelling.
 - SQL (SSMS) - Large database manipulation and queries.
